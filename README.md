@@ -1,4 +1,4 @@
-👋 Hi, I’m @Heisenburg-z
+👋 Hi, I’m Thapelo Ndlovu
 - 👀 I’m interested in web development, machine learning, and open source projects.
 - 🌱 I’m currently learning Next.js and diving deeper into full-stack development.
 - 💞️ I’m looking to collaborate on innovative web applications, machine learning projects, and open-source contributions.
