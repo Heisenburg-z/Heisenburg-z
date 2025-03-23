@@ -3,9 +3,9 @@
 ```markdown
 # 👋 Hello World! I'm Thapelo Ndlovu
 
-[![Web Developer](https://img.shields.io/badge/-%F0%9F%92%BB%20Full%20Stack%20Developer-8A2BE2)](https://github.com/Heisenburg-z)
-[![ML Enthusiast](https://img.shields.io/badge/-%F0%9F%A4%96%20Machine%20Learning-00BFFF)](https://github.com/Heisenburg-z)
-[![Open Source Contributor](https://img.shields.io/badge/-%E2%9C%8D%EF%B8%8F%20Open%20Source-32CD32)](https://github.com/Heisenburg-z)
+[![Web Developer](https://img.shields.io/badge/-%F0%9F%92%BB_Full_Stack_Developer-8A2BE2)](https://github.com/Heisenburg-z)
+[![ML Enthusiast](https://img.shields.io/badge/-%F0%9F%A4%96_Machine_Learning-00BFFF)](https://github.com/Heisenburg-z)
+[![Open Source](https://img.shields.io/badge/-%E2%9C%8D%EF%B8%8F_Open_Source-32CD32)](https://github.com/Heisenburg-z)
 
 ## 🚀 **About Me**
 
@@ -22,7 +22,6 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
 ## 🔥 **Tech Stack Arsenal**
 
 ### 🛠️ **Core Technologies**
