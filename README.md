@@ -1,6 +1,3 @@
-
-
-```markdown
 # 👋 Hello World! I'm Thapelo Ndlovu
 
 [![Web Developer](https://img.shields.io/badge/-%F0%9F%92%BB_Full_Stack_Developer-8A2BE2)](https://github.com/Heisenburg-z)
@@ -22,6 +19,8 @@ class Developer:
 
 me = Developer()
 me.say_hi()
+```
+
 ## 🔥 **Tech Stack Arsenal**
 
 ### 🛠️ **Core Technologies**
@@ -43,8 +42,8 @@ me.say_hi()
 ## 🤝 **Let's Connect & Collaborate**
 
 [![Email](https://img.shields.io/badge/-📧%20Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thapelondlovu74@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-👔%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ThapeloNdlovu)
-[![Twitter](https://img.shields.io/badge/-🐦%20Twitter%20(Coming%20Soon)-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-👔%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thapelondlovu)
+[![Twitter](https://img.shields.io/badge/-🐦%20Twitter%20(Coming%20Soon)-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
 
 ## 🤯 **Fun Fact Zone**
 > "I built a 🤖 **Rubik's Cube-solving robot** in 72 hours using Arduino and Python!  
@@ -52,11 +51,11 @@ me.say_hi()
 
 ## 🧩 **Current Learning Journey**
 ```mermaid
-graph LR
-A[Next.js 14] --> B[App Router]
-A --> C[Server Actions]
-D[Machine Learning] --> E[LLM Fine-tuning]
-D --> F[Real-time Inference]
+graph TD;
+    A[Next.js 14] --> B[App Router];
+    A --> C[Server Actions];
+    D[Machine Learning] --> E[LLM Fine-tuning];
+    D --> F[Real-time Inference];
 ```
 
 ## 💡 **Philosophy**
@@ -64,9 +63,9 @@ D --> F[Real-time Inference]
 > 💡 *The best applications are those that make complexity feel simple*"
 
 ![Visitors](https://komarev.com/ghpvc/?username=Heisenburg-z&color=dc143c&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Heisenburg-z/Heisenburg-z?color=9E7BB5&label=LAST%20UPDATE&style=flat-square)]()
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Heisenburg-z/Heisenburg-z?color=9E7BB5&label=LAST%20UPDATE&style=flat-square)](https://github.com/Heisenburg-z/Heisenburg-z)
 
 ---
 
-⭐ *This README is powered by* **Coffee** ☕ *and* **Late Night Coding Sessions** 🌙  
-```
+⭐ *This README is powered by* **Coffee** ☕ *and* **Late Night Coding Sessions** 🌙
+
