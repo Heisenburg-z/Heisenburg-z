@@ -1,4 +1,4 @@
-Here's a supercharged, visually engaging GitHub README for you with badges, emojis, and professional sections:
+
 
 ```markdown
 # 👋 Hello World! I'm Thapelo Ndlovu
@@ -72,19 +72,3 @@ D --> F[Real-time Inference]
 
 ⭐ *This README is powered by* **Coffee** ☕ *and* **Late Night Coding Sessions** 🌙  
 ```
-
-**Features Included:**
-1. Dynamic GitHub Stats Cards
-2. Tech Stack Badges with Hover Effects
-3. Interactive Code Block Display
-4. Mermaid Diagram for Learning Path
-5. Visitor Counter & Last Update Tracker
-6. Social Media Links with Custom Icons
-7. Fun Fact Highlight Section
-8. Programming Philosophy Section
-9. Responsive Design Elements
-10. Custom Color Scheme
-
-**Preview Tip:** GitHub supports dark/light mode - the colors automatically adapt! To see changes, just paste this in your README.md and watch it transform 🚀
-
-Need any adjustments? Let me know! 😎
