@@ -23,7 +23,6 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-
 ## 🔥 **Tech Stack Arsenal**
 
 ### 🛠️ **Core Technologies**
